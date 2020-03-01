@@ -14,4 +14,5 @@ for (i;i<members.length;i++{
   }
 }
 
-if (memberSign.length
+if (memberSign.length){
+}

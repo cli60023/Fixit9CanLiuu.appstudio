@@ -41,6 +41,22 @@
             "membership",
             "membership.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ABscenario",
+            "ABscenario.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "twoControls",
+            "twoControls.json"
+          ]
         }
       ],
       "configxml": null,
@@ -61,7 +77,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "login",
+      "firstform": "ABscenario",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",

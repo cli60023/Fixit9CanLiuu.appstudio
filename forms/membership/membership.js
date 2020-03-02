@@ -8,11 +8,13 @@ let memberSign = []
 Button1.onclick=function(){
 
 var i = 0
-for (i;i<members.length;i++{
+for (i;i<members.length;i++){
   if(members[i] == inptFirstName.value){
   memberSign.push(inptFirstName.value)
   }
 }
 
-if (memberSign.length){
+if (memberSign.length == 0){
+alert("You are not a member")
+}
 }
